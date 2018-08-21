@@ -1,5 +1,5 @@
 ﻿/* 
- Project #3 by Meir Yeheskel
+ Project #3 by Meir Yeheskel, course 91448/4
 
  The program uses an open database to store the required variables.
  The relational Database was built through the query file "searchdb.txt" which is included.

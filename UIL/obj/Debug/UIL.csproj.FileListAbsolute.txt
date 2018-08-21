@@ -12,3 +12,17 @@ C:\Users\Meir\source\repos\DAL\UIL\obj\Debug\UIL.exe
 C:\Users\Meir\source\repos\DAL\UIL\obj\Debug\UIL.pdb
 C:\Users\Meir\source\repos\DAL\UIL\bin\Debug\DAL.dll
 C:\Users\Meir\source\repos\DAL\UIL\bin\Debug\DAL.pdb
+C:\Users\Meir\source\repos\Search-Project\UIL\bin\Debug\UIL.exe.config
+C:\Users\Meir\source\repos\Search-Project\UIL\bin\Debug\UIL.exe
+C:\Users\Meir\source\repos\Search-Project\UIL\bin\Debug\UIL.pdb
+C:\Users\Meir\source\repos\Search-Project\UIL\bin\Debug\BLL.dll
+C:\Users\Meir\source\repos\Search-Project\UIL\bin\Debug\BOL.dll
+C:\Users\Meir\source\repos\Search-Project\UIL\bin\Debug\DAL.dll
+C:\Users\Meir\source\repos\Search-Project\UIL\bin\Debug\BLL.pdb
+C:\Users\Meir\source\repos\Search-Project\UIL\bin\Debug\BOL.pdb
+C:\Users\Meir\source\repos\Search-Project\UIL\bin\Debug\DAL.pdb
+C:\Users\Meir\source\repos\Search-Project\UIL\obj\Debug\UIL.csprojAssemblyReference.cache
+C:\Users\Meir\source\repos\Search-Project\UIL\obj\Debug\UIL.csproj.CoreCompileInputs.cache
+C:\Users\Meir\source\repos\Search-Project\UIL\obj\Debug\UIL.csproj.CopyComplete
+C:\Users\Meir\source\repos\Search-Project\UIL\obj\Debug\UIL.exe
+C:\Users\Meir\source\repos\Search-Project\UIL\obj\Debug\UIL.pdb
