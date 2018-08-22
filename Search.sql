@@ -1,0 +1,27 @@
+
+USE master
+GO
+CREATE DATABASE SearchDB
+GO
+
+
+USE SearchDB
+GO
+CREATE TABLE [dbo].[SearchData] (
+    [SearchID]   INT           IDENTITY (1, 1) NOT NULL,
+    [SearchString] NVARCHAR (100) NOT  NULL  ,
+    [SearchFolder] NVARCHAR (100)  NULL , 
+    CONSTRAINT [PK_SearchData] PRIMARY KEY ([SearchID])
+);
+
+
+USE SearchDB
+GO
+CREATE TABLE [dbo].[SearchResults] (
+    [SearchResultsID]     INT           IDENTITY (1, 1) NOT NULL,
+    [ResultPath]   NVARCHAR (200)  NULL ,
+	[SearchID]   INT           NOT NULL,
+    CONSTRAINT [PK_SearchResults] PRIMARY KEY ([SearchResultsID]),
+    CONSTRAINT [FK_SearchResults_ToTable] FOREIGN KEY ([SearchID]) REFERENCES [dbo].[SearchData]([SearchID])
+
+);
