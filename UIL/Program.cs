@@ -1,14 +1,3 @@
-﻿/* 
- Project #3 by Meir Yeheskel, course 91448/4
-
- The program uses an open database to store the required variables.
- The relational Database was built through the query file "searchdb.txt" which is included.
- For simplicity - when no search folder is selected - the "c:\" folder will be the default.
- Although an error catching system was introduced, a try & catch syntax was added 
- for reasons of "UnauthorizedAccessException" errors from the BLL section.
- 
-*/
-
 using BLL;
 using BOL;
 using System;
